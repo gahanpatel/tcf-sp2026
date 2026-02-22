@@ -1,1 +1,6 @@
 # Your homework submission! Please follow the instructions in `02-frontend/hw/README.md` and then complete your writeup in this file. Submit by pushing all of your changes for this week's notes, hw etc to the remote of your fork of this repository!
+ 
+ I learned about TypeScript, Tailwind CSS, and Next.js. I understood more in depth how frontend coding works and how 
+ you can style different things that appear on a webiste or an app. Using Next.js allows you to easily work on the code
+ and not have to worry about doing things like making all the files, and it also automatically saves it on the server 
+ once you change the code. You also don't have to work on everything in sepearate files and can do all the work in the same place. Next.js handles the server and reoloading for the project. Tailwind CSS allows you to add styling to different classes in the same file instead of seperating it. Overall, I felt like this assignment was very helpful and allowed me to get good foundation on frontend development.
