@@ -1,0 +1,1 @@
+I had a behavioral interview with Shaurya. It was good to be able to get some practice in especailly with co-op search going on. It was also good to be able to learn more about Shaurya and see how he approaches interivew questions. We got good feedback from each other on how to improve.
